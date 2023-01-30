@@ -1,0 +1,6 @@
+pyqt/test_image.png
+pyqt/__pycache__/*
+pyqt/tab_objects/__pycache__/*
+imgs/*
+imgs_reduced/*
+model.h5
