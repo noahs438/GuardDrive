@@ -12,7 +12,7 @@ Developped during the QHACKS 2023 hackathon, **GuardDrive** is a project that ut
 * [Future](#future)
 
 ## Inspiration
-According to the CDC, distracted driving causes **one in five accidents**. Distracted driving is a serious issue that affects countless individuals and families every day, many of the accidents being fatal. Our team was driven by the desire to make a real impact in reducing the number of accidents caused by this dangerous behaviour. We were inspired to take on the challenge of **creating an accurate computer vision machine learning model** that could detect and deter distracted driving in **real-time**. We call our platform: **GuardDrive**.
+According to the CDC motor vehicle safety division, **one in five car accidents** is caused by a distracted driver. Distracted driving is a serious issue that affects countless individuals and families every day, many of the accidents being fatal. Our team was driven by the desire to make a real impact in reducing the number of accidents caused by this dangerous behaviour. We were inspired to take on the challenge of **creating an accurate computer vision machine learning model** that could detect and deter distracted driving in **real-time**. We call our platform: **GuardDrive**.
 
 ## Demo
 These images are from the test database, however, the demo was made to work on a computer webcam and would save a new image every few frames and give a prediction based upon that saved image. Because tests during the hackathon could not be completed in a car, the environmental queues were not detected by the model, and indications of possible overfitting became apparent.
