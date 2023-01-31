@@ -1,5 +1,5 @@
 # GuardDrive
-Developped during the QHACKS 2023 hackathon, **GuardDrive** is a project that utilizes computer vision and machine learning to detect and prevent distracted driving, making roads safer for all by reducing the risk of accidents caused by distractions.
+Developed during the QHACKS 2023 hackathon, **GuardDrive** is a project that utilizes computer vision and machine learning to detect and prevent distracted driving, making roads safer for all by reducing the risk of accidents caused by distractions.
 
 ## Table of contents
 * [Inspiration](#inspiration)
