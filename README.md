@@ -29,7 +29,7 @@ We used a computer's webcam to capture video simulating a driving experience as 
 ![UI](demo/GuardDriveUI.png)
 
 ## Tech
-Using the **Tensorflow** and **Keras** libraries, we built and refined our model and trained it on a massive dataset of over **100,000 images** provided by State Farm insurance company, which, together, helped us to achieve a **tested accuracy of 96%**. The final implementation was built using **PyQT** for the GUI, which made it user-friendly and easy to use, although the GUI is **not intended to be customer facing** until a playback feature can be added.
+Using the **Tensorflow** and **Keras** libraries, I built and refined my team's model and trained it on a massive dataset of over **100,000 images** provided by the State Farm insurance company, which, together, helped us to achieve a **tested accuracy of 96%**. The final implementation was built using **PyQT** for the GUI, which made it user-friendly and easy to use, although the GUI is **not intended to be customer facing** until a playback feature can be added.
 
 ## Challenges
 The main challenge we encountered was recapturing test cases using the webcam from our laptops, which exposed us to the likely overfitting that happened with the large dataset used for training. Given that we did not recreate the testing environment in a car, the results given to to us were less accurate than the validation done with the test database.
